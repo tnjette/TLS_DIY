@@ -1,2 +1,2 @@
-# TSL_DIY
-Bare-bones TSL implementation using so many Java resources.
+# TLS_DIY
+Bare-bones TLS implementation using so many Java resources.
